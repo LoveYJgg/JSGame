@@ -1,0 +1,7 @@
+	.npc1{
+			position: absolute;
+			width: 32px;
+			height: 48px;
+			background-image: url(../img/player2/right.png);
+			
+		}

@@ -1,0 +1,127 @@
+	.m2_floor{
+			float: left;
+			display: block;
+			background-image: url(../img/M2_IMG/floor/m2f.png);
+			background-repeat:no-repeat;
+			width: 32px;
+			height: 32px;
+		
+		}
+		.m2_wallL{
+			float: left;
+			display: block;
+			background-image: url(../img/M2_IMG/wall/m2w.png);
+			
+			width: 32px;
+			height: 32px;
+			transform: rotate(180deg);
+		}
+		.m2_wallr{
+			float: left;
+			display: block;
+			background-image: url(../img/M2_IMG/wall/m2w2.png);
+			transform: rotate(180deg);
+			width: 32px;
+			height: 32px;
+		
+		}
+		
+		.m2_d1{
+			float: left;
+			display: block;
+			background-image: url(../img/M2_IMG/door/d1.png);
+			width: 32px;
+			height: 32px;
+		
+		}
+		
+		.m2_d2{
+			float: left;
+			display: block;
+				background-image: url(../img/M2_IMG/door/d2.png);
+			width: 32px;
+			height: 32px;
+			
+		}
+		.m2_glass{
+			float: left;
+			display: block;
+				background-image: url(../img/M2_IMG/object/wd2.png);
+			width: 32px;
+			height: 32px;
+		}
+		
+		.m2_glass2{
+			float: left;
+			display: block;
+			background-image: url(../img/M2_IMG/object/wd1.png);
+			width: 32px;
+			height: 32px;
+		}
+		.m2_glass3{
+			float: left;
+			display: block;
+			background-image: url(../img/M2_IMG/object/wd3.png);
+			width: 32px;
+			height: 32px;
+		}
+		.m2_glass4{
+			float: left;
+			display: block;
+			background-image: url(../img/M2_IMG/object/wd4.png);
+			width: 32px;
+			height: 32px;
+		}
+		.m2_w1{
+			float: left;
+			display: block;
+			background-image: url(../img/M2_IMG/wall/m2_w.png);
+			
+			width: 32px;
+			height: 32px;
+		}
+		
+		.m2_w2{
+			float: left;
+			display: block;
+			background-image: url(../img/M2_IMG/wall/m2_w2.png);
+			
+			width: 32px;
+			height: 32px;
+		}
+		
+		.m2_c{
+			float: left;
+			display: block;
+			background-image: url(../img/M2_IMG/object/class1.png);
+			background-color: rgb(238,242,247);
+			width: 32px;
+			height: 32px;
+		}
+		
+		.m2_c2{
+			float: left;
+			display: block;
+			background-image: url(../img/M2_IMG/object/class2.png);
+			background-color: rgb(238,242,247);
+			width: 32px;
+			height: 32px;
+		}
+		
+		.m2_staircase1{
+			float: left;
+			display: block;
+			background-image: url(../img/M2_IMG/object/stl.png);
+			background-color: rgb(238,242,247);
+			width: 32px;
+			height: 32px;
+		}
+		
+		.m2_staircase2{
+			float: left;
+			display: block;
+			background-image: url(../img/M2_IMG/object/str.png);
+			background-color: rgb(238,242,247);
+			width: 32px;
+			height: 32px;
+		}

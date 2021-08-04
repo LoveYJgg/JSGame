@@ -1,0 +1,297 @@
+.m4_floor{
+	float: left;
+	display: block;
+	background-image: url(../img/M2_IMG/floor/m2f.png);
+	background-repeat:no-repeat;
+	width: 32px;
+	height: 32px;
+}
+.m4_wall1{
+			float:left;
+			display:block;
+			width: 32px;
+			height:32px ;
+			background:url(../img/M4_IMG/wall/wr1.png);
+			background-size: contain;
+			background-repeat:no-repeat; 
+			
+		
+		}
+	 	.m4_wall2{
+			float:left;
+				display:block;
+				width: 32px;
+				height:32px ;
+			 	background:url(../img/M4_IMG/wall/wt.png);
+				background-size: contain;
+				background-repeat:no-repeat; 
+				
+		}
+		.m4_wall3{
+			float:left;
+				display:block;
+				width: 32px;
+				height:32px ;
+			 	background:url(../img/M4_IMG/wall/wa3.png);
+			
+				background-size: contain;
+				background-repeat:no-repeat; 
+		}
+.m4_wall4{
+			float:left;
+			display:block;
+			width: 32px;
+			height: 32px ;
+			background: url(../img/M4_IMG/wall/w1.png);
+			background-size: cover;
+			background-repeat:no-repeat;
+		
+		
+		}
+		.m4_wall5{
+			float:left;
+			display:block;
+			width: 32px;
+			height: 32px ;
+			background:  url(../img/M4_IMG/wall/wm.png);
+			background-size: cover;
+			background-repeat:no-repeat;
+					
+		}
+		.m4_wall6{
+			float:left;
+			display:block;
+			width: 32px;
+			height: 32px ;
+			background: url(../img/M4_IMG/wall/w2.png);
+			background-size: cover;
+			background-repeat:no-repeat;
+					
+		}
+		.m4_wall7{
+			float:left;
+			display:block;
+			width: 32px;
+			height: 32px ;
+			background: url(../img/M4_IMG/wall/wl.png);
+			background-size: cover;
+			background-repeat:no-repeat;
+		
+						
+		 }
+.m4_wall8{
+			float:left;
+			display:block;
+			width: 32px;
+			height: 32px ;
+			background-image: url(../img/M4_IMG/wall/aaa.png);
+			background-size: cover;
+			background-repeat:no-repeat;
+		}
+		.m4_wall9{
+			float:left;
+			display:block;
+			width: 32px;
+			height: 32px ;
+			background: url(../img/M4_IMG/wall/wlm.png);
+			
+			background-size: cover;
+			background-repeat:no-repeat;
+		
+				
+			
+		}
+.m4_wall10{
+		float:left;
+		display:block;
+		width: 32px;
+		height: 32px;
+		background: url(../img/M4_IMG/wall/mmm.png);
+		background-size: contain;
+		background-repeat:no-repeat;
+		
+	
+	}
+.m4_wall11{
+		float:left;
+		display:block;
+		width: 32px;
+		height: 32px;
+		background-image:url(../img/M4_IMG/wall/wlb.png);
+		background-size: contain;
+		background-repeat:no-repeat;
+	}
+	.m4_wall12{
+		float:left;
+		display:block;
+		width: 32px;
+		height: 32px;
+		background-image: url(../img/M4_IMG/wall/wb.png);
+	
+		background-size: contain;
+		background-repeat:no-repeat;
+	}
+.m4_wall13{
+		float:left;
+		display:block;
+		width: 32px;
+		height: 32px;
+		background:url(../img/M4_IMG/wall/wrb.png);
+		background-size: contain;
+		background-repeat:no-repeat;
+	}
+	
+	.m4_tab1{
+			float:left;
+			display:block;
+			width: 32px;
+			height: 32px;
+			background:url(../img/M4_IMG/object/tab1.png);
+			background-size: contain;
+			background-repeat:no-repeat;
+		}
+		.m4_tab2{
+				float:left;
+				display:block;
+				width: 32px;
+				height: 32px;
+				background:url(../img/M4_IMG/object/tab2.png);
+				background-size: contain;
+				background-repeat:no-repeat;
+			}
+			.m4_tab3{
+					float:left;
+								display:block;
+								width: 32px;
+								height: 32px;
+								background:url(../img/M4_IMG/object/tab3.png);
+								background-size: contain;
+								background-repeat:no-repeat;
+				}
+	.m4_chair{
+		float:left;
+					display:block;
+					width: 32px;
+					height: 32px;
+					background:url(../img/M4_IMG/object/chair1.png);
+					background-size: contain;
+					background-repeat:no-repeat;
+					background-color: rgb(228,228,210);
+	}
+	.m4_tab4{
+		float:left;
+		display:block;
+		width: 32px;
+		height: 32px;
+		background:url(../img/M4_IMG/object/tab4.png);
+		background-size: contain;
+		background-repeat:no-repeat;
+		background-color: rgb(228,228,210);
+	}
+	.m4_tab5{
+		float:left;
+		display:block;
+		width: 32px;
+		height: 32px;
+		background:url(../img/M4_IMG/object/tab5.png);
+		background-size: contain;
+		background-repeat:no-repeat;
+		background-color: rgb(228,228,210);
+	}
+	.m4_tab6{
+		float:left;
+		display:block;
+		width: 32px;
+		height: 32px;
+		background:url(../img/M4_IMG/object/tab6.png);
+		background-size: contain;
+		background-repeat:no-repeat;
+		background-color: rgb(228,228,210);
+	}
+	
+	.m4_chair2{
+		float:left;
+		display:block;
+		width: 32px;
+		height: 32px;
+		background:url(../img/M4_IMG/object/chair2.png);
+		background-size: contain;
+		background-repeat:no-repeat;
+		background-color: rgb(228,228,210);
+	}
+	
+	.m4_chair3{
+		float:left;
+		display:block;
+		width: 32px;
+		height: 32px;
+		background:url(../img/M4_IMG/object/chair3.png);
+		background-size: contain;
+		background-repeat:no-repeat;
+		background-color: rgb(228,228,210);
+	}
+	.m4_cabinet1{
+		float:left;
+		display:block;
+		width: 32px;
+		height: 32px;
+		background:url(../img/M4_IMG/object/cabinet1.png);
+		background-size: contain;
+		background-repeat:no-repeat;
+		background-color: rgb(228,228,210);
+	}
+	
+	.m4_cabinet2{
+		float:left;
+		display:block;
+		width: 32px;
+		height: 32px;
+		background:url(../img/M4_IMG/object/cabinet2.png);
+		background-size: contain;
+		background-repeat:no-repeat;
+		background-color: rgb(228,228,210);
+	}
+	.m4_cmche1{
+		float:left;
+		display:block;
+		width: 32px;
+		height: 32px;
+		background:url(../img/M4_IMG/object/cmche1.png);
+		background-size: contain;
+		background-repeat:no-repeat;
+		background-color: rgb(228,228,210);
+	}
+	.m4_cmche2{
+		float:left;
+		display:block;
+		width: 32px;
+		height: 32px;
+		background:url(../img/M4_IMG/object/cmche2.png);
+		background-size: contain;
+		background-repeat:no-repeat;
+		background-color: rgb(228,228,210);
+	
+	}
+	
+	.m4_tree1{
+		float:left;
+		display:block;
+		width: 32px;
+		height: 32px;
+		background:url(../img/M4_IMG/object/tree1.png);
+		background-size: contain;
+		background-repeat:no-repeat;
+		background-color: rgb(228,228,210);
+	
+	}
+	.m4_tree2{
+		float:left;
+		display:block;
+		width: 32px;
+		height: 32px;
+		background:url(../img/M4_IMG/object/tree2.png);
+		background-size: contain;
+		background-repeat:no-repeat;
+		background-color: rgb(228,228,210);
+	
+	}
